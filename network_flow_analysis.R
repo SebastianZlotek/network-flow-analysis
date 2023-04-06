@@ -1,5 +1,4 @@
 # Administracja systemów rozproszonych
-# Koczynasz Jonasz, Nowak Filip, Złotek Sebastian P06
 
 #Instalacja bibliotek
 install.packages("ggplot2")
