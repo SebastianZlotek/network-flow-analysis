@@ -26,7 +26,7 @@ library("RColorBrewer")
 
 options(scipen=999) #usuwamy postać wykładniczą
 
-setwd("C:/Users/Sebastian/Desktop/Studia/II rok 2 semestr/ASR_PROJEKT") #ustawiamy folder główny
+setwd("filepath") #ustawiamy folder główny
 
 netflowds <- read.csv("Train_Test_Network.csv", encoding = "UTF-8") #wczytujemy plik csv
 
